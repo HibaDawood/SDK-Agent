@@ -18,11 +18,11 @@ The script operates through four main steps behind the scenes:
 
 Follow these steps to configure the environment and test the agent locally on your machine:
 
-# 1. Clone the repository and enter your project folder
+### 1. Clone the repository and enter your project folder
 git clone https://github.com/HibaDawood/SDK-Agent && cd https://github.com/HibaDawood/SDK-Agent
 
-# 2. Install the required SDK dependencies
+### 2. Install the required SDK dependencies
 pip install openai-agents python-dotenv
 
-# 3. Run the terminal application
+### 3. Run the terminal application
 python main.py
