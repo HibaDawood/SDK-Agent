@@ -1,4 +1,4 @@
-# 🤖 Smart Student Agent (Console Version)
+# 🤖 Smart Agent (Console Version)
 
 This repository contains a terminal-based conversational agent designed to handle queries. The project demonstrates how to configure **OpenAI's official Agents SDK** to run on top of Google's **Gemini 2.0 Flash model** using OpenAI-compatible base URL routing. It also enforces custom behavioral guardrails for greetings and farewells.
 
